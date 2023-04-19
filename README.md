@@ -1,5 +1,5 @@
 # Maltimart-AI-ecommerce
-1, Một số giao diện:
+1, Interfaces:
 ![image](https://user-images.githubusercontent.com/85424168/232969863-a3b9dd7d-27e3-4ace-bf3d-fee2e177c4de.png)
 
 ![shop](https://user-images.githubusercontent.com/85424168/232973174-f0b8cbd3-2201-4df2-9c56-7c756b455c64.PNG)
